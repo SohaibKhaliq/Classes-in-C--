@@ -21,13 +21,13 @@ private:
 
 public:
     int id;
-    string name;        // public
-    string speciality;  // public
-    string blood_group; // public
-    string nationality; // public
-    string religion;    // public
-    string gender;      // public
-    string dob;         // public
+    string name;        
+    string speciality;  
+    string blood_group; 
+    string nationality; 
+    string religion;    
+    string gender;      
+    string dob;         
 };
 
 int main()
